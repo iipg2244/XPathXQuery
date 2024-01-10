@@ -1,0 +1,5573 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<oscars>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>1024648</id>
+            <name>Argo</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000358</id>
+            <name>Daniel Day-Lewis</name>
+        </person>
+        <movie>
+            <id>0443272</id>
+            <name>Lincoln</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>2225369</id>
+            <name>Jennifer Lawrence</name>
+        </person>
+        <movie>
+            <id>1045658</id>
+            <name>Silver Linings Playbook</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0910607</id>
+            <name>Christoph Waltz</name>
+        </person>
+        <movie>
+            <id>1853728</id>
+            <name>Django Unchained</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0004266</id>
+            <name>Anne Hathaway</name>
+        </person>
+        <movie>
+            <id>1707386</id>
+            <name>Les Miserables</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2013</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000487</id>
+            <name>Ang Lee</name>
+        </person>
+        <movie>
+            <id>0454876</id>
+            <name>Life of Pi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>1655442</id>
+            <name>The Artist</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0241121</id>
+            <name>Jean Dujardin</name>
+        </person>
+        <movie>
+            <id>1655442</id>
+            <name>The Artist</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000658</id>
+            <name>Meryl Streep</name>
+        </person>
+        <movie>
+            <id>1007029</id>
+            <name>The Iron Lady</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001626</id>
+            <name>Christopher Plummer</name>
+        </person>
+        <movie>
+            <id>1532503</id>
+            <name>Beginners</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0818055</id>
+            <name>Octavia Spencer</name>
+        </person>
+        <movie>
+            <id>1454029</id>
+            <name>The Help</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2012</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0371890</id>
+            <name>Michel Hazanavicius</name>
+        </person>
+        <movie>
+            <id>1655442</id>
+            <name>The Artist</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>1504320</id>
+            <name>The King's Speech</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000147</id>
+            <name>Colin Firth</name>
+        </person>
+        <movie>
+            <id>1504320</id>
+            <name>The King's Speech</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000204</id>
+            <name>Natalie Portman</name>
+        </person>
+        <movie>
+            <id>0947798</id>
+            <name>Black Swan</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000288</id>
+            <name>Christian Bale</name>
+        </person>
+        <movie>
+            <id>0964517</id>
+            <name>The Fighter</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0502425</id>
+            <name>Melissa Leo</name>
+        </person>
+        <movie>
+            <id>0964517</id>
+            <name>The Fighter</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2011</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0393799</id>
+            <name>Tom Hooper</name>
+        </person>
+        <movie>
+            <id>1504320</id>
+            <name>The King's Speech</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0887912</id>
+            <name>The Hurt Locker</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000313</id>
+            <name>Jeff Bridges</name>
+        </person>
+        <movie>
+            <id>1263670</id>
+            <name>Crazy Heart</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000113</id>
+            <name>Sandra Bullock</name>
+        </person>
+        <movie>
+            <id>0878804</id>
+            <name>The Blind Side</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0910607</id>
+            <name>Christoph Waltz</name>
+        </person>
+        <movie>
+            <id>0361748</id>
+            <name>Inglourious Basterds</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0594898</id>
+            <name>Mo'Nique</name>
+        </person>
+        <movie>
+            <id>0929632</id>
+            <name>Precious: Based on the Novel Push by Sapphire</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2010</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000941</id>
+            <name>Kathryn Bigelow</name>
+        </person>
+        <movie>
+            <id>0887912</id>
+            <name>The Hurt Locker</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>1010048</id>
+            <name>Slumdog Millionaire</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000576</id>
+            <name>Sean Penn</name>
+        </person>
+        <movie>
+            <id>1013753</id>
+            <name>Milk</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000701</id>
+            <name>Kate Winslet</name>
+        </person>
+        <movie>
+            <id>0976051</id>
+            <name>The Reader</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0005132</id>
+            <name>Heath Ledger</name>
+        </person>
+        <movie>
+            <id>0468569</id>
+            <name>The Dark Knight</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0004851</id>
+            <name>Penelope Cruz</name>
+        </person>
+        <movie>
+            <id>0497465</id>
+            <name>Vicky Cristina Barcelona</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2009</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000965</id>
+            <name>Danny Boyle</name>
+        </person>
+        <movie>
+            <id>1010048</id>
+            <name>Slumdog Millionaire</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0477348</id>
+            <name>No Country for Old Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000358</id>
+            <name>Daniel Day-Lewis</name>
+        </person>
+        <movie>
+            <id>0469494</id>
+            <name>There Will Be Blood</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0182839</id>
+            <name>Marion Cotillard</name>
+        </person>
+        <movie>
+            <id>0450188</id>
+            <name>Mome, La</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000849</id>
+            <name>Javier Bardem</name>
+        </person>
+        <movie>
+            <id>0477348</id>
+            <name>No Country for Old Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0842770</id>
+            <name>Tilda Swinton</name>
+        </person>
+        <movie>
+            <id>0465538</id>
+            <name>Michael Clayton</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2008</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001053</id>
+            <name>Ethan Coen</name>
+        </person>
+        <movie>
+            <id>0477348</id>
+            <name>No Country for Old Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0407887</id>
+            <name>The Departed</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001845</id>
+            <name>Forest Whitaker</name>
+        </person>
+        <movie>
+            <id>0455590</id>
+            <name>The Last King of Scotland</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000545</id>
+            <name>Helen Mirren</name>
+        </person>
+        <movie>
+            <id>0436697</id>
+            <name>The Queen</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000273</id>
+            <name>Alan Arkin</name>
+        </person>
+        <movie>
+            <id>0449059</id>
+            <name>Little Miss Sunshine</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>1617685</id>
+            <name>Jennifer Hudson</name>
+        </person>
+        <movie>
+            <id>0443489</id>
+            <name>Dreamgirls</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2007</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000217</id>
+            <name>Martin Scorsese</name>
+        </person>
+        <movie>
+            <id>0407887</id>
+            <name>The Departed</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0375679</id>
+            <name>Crash</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000450</id>
+            <name>Philip Seymour Hoffman</name>
+        </person>
+        <movie>
+            <id>0379725</id>
+            <name>Capote</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000702</id>
+            <name>Reese Witherspoon</name>
+        </person>
+        <movie>
+            <id>0358273</id>
+            <name>Walk the Line</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000123</id>
+            <name>George Clooney</name>
+        </person>
+        <movie>
+            <id>0365737</id>
+            <name>Syriana</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001838</id>
+            <name>Rachel Weisz</name>
+        </person>
+        <movie>
+            <id>0387131</id>
+            <name>The Constant Gardener</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2006</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000487</id>
+            <name>Ang Lee</name>
+        </person>
+        <movie>
+            <id>0388795</id>
+            <name>Brokeback Mountain</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0405159</id>
+            <name>Million Dollar Baby</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0004937</id>
+            <name>Jamie Foxx</name>
+        </person>
+        <movie>
+            <id>0350258</id>
+            <name>Ray</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0005476</id>
+            <name>Hilary Swank</name>
+        </person>
+        <movie>
+            <id>0405159</id>
+            <name>Million Dollar Baby</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000151</id>
+            <name>Morgan Freeman</name>
+        </person>
+        <movie>
+            <id>0405159</id>
+            <name>Million Dollar Baby</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000949</id>
+            <name>Cate Blanchett</name>
+        </person>
+        <movie>
+            <id>0338751</id>
+            <name>The Aviator</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2005</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000142</id>
+            <name>Clint Eastwood</name>
+        </person>
+        <movie>
+            <id>0405159</id>
+            <name>Million Dollar Baby</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0167260</id>
+            <name>Lord of the Rings: The Return of the King, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000576</id>
+            <name>Sean Penn</name>
+        </person>
+        <movie>
+            <id>0327056</id>
+            <name>Mystic River</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000234</id>
+            <name>Charlize Theron</name>
+        </person>
+        <movie>
+            <id>0340855</id>
+            <name>Monster</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000209</id>
+            <name>Tim Robbins</name>
+        </person>
+        <movie>
+            <id>0327056</id>
+            <name>Mystic River</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000250</id>
+            <name>Renee Zellweger</name>
+        </person>
+        <movie>
+            <id>0159365</id>
+            <name>Cold Mountain</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2004</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001392</id>
+            <name>Peter Jackson</name>
+        </person>
+        <movie>
+            <id>0167260</id>
+            <name>Lord of the Rings: The Return of the King, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0299658</id>
+            <name>Chicago</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0004778</id>
+            <name>Adrien Brody</name>
+        </person>
+        <movie>
+            <id>0253474</id>
+            <name>Pianist, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000173</id>
+            <name>Nicole Kidman</name>
+        </person>
+        <movie>
+            <id>0274558</id>
+            <name>Hours, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0177933</id>
+            <name>Chris Cooper</name>
+        </person>
+        <movie>
+            <id>0268126</id>
+            <name>Adaptation.</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001876</id>
+            <name>Catherine Zeta-Jones</name>
+        </person>
+        <movie>
+            <id>0299658</id>
+            <name>Chicago</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2003</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000591</id>
+            <name>Roman Polanski</name>
+        </person>
+        <movie>
+            <id>0253474</id>
+            <name>Pianist, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0268978</id>
+            <name>Beautiful Mind, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000243</id>
+            <name>Denzel Washington</name>
+        </person>
+        <movie>
+            <id>0139654</id>
+            <name>Training Day</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000932</id>
+            <name>Halle Berry</name>
+        </person>
+        <movie>
+            <id>0285742</id>
+            <name>Monster's Ball</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000980</id>
+            <name>Jim Broadbent</name>
+        </person>
+        <movie>
+            <id>0280778</id>
+            <name>Iris</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000124</id>
+            <name>Jennifer Connelly</name>
+        </person>
+        <movie>
+            <id>0268978</id>
+            <name>Beautiful Mind, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2002</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000165</id>
+            <name>Ron Howard</name>
+        </person>
+        <movie>
+            <id>0268978</id>
+            <name>Beautiful Mind, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0172495</id>
+            <name>Gladiator</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000128</id>
+            <name>Russell Crowe</name>
+        </person>
+        <movie>
+            <id>0172495</id>
+            <name>Gladiator</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000210</id>
+            <name>Julia Roberts</name>
+        </person>
+        <movie>
+            <id>0195685</id>
+            <name>Erin Brockovich</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001125</id>
+            <name>Benicio Del Toro</name>
+        </person>
+        <movie>
+            <id>0181865</id>
+            <name>Traffic</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001315</id>
+            <name>Marcia Gay Harden</name>
+        </person>
+        <movie>
+            <id>0183659</id>
+            <name>Pollock</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2001</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001752</id>
+            <name>Steven Soderbergh</name>
+        </person>
+        <movie>
+            <id>0181865</id>
+            <name>Traffic</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0169547</id>
+            <name>American Beauty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000228</id>
+            <name>Kevin Spacey</name>
+        </person>
+        <movie>
+            <id>0169547</id>
+            <name>American Beauty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0005476</id>
+            <name>Hilary Swank</name>
+        </person>
+        <movie>
+            <id>0171804</id>
+            <name>Boys Don't Cry</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000323</id>
+            <name>Michael Caine</name>
+        </person>
+        <movie>
+            <id>0124315</id>
+            <name>Cider House Rules, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001401</id>
+            <name>Angelina Jolie</name>
+        </person>
+        <movie>
+            <id>0172493</id>
+            <name>Girl, Interrupted</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>2000</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0005222</id>
+            <name>Sam Mendes</name>
+        </person>
+        <movie>
+            <id>0169547</id>
+            <name>American Beauty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0138097</id>
+            <name>Shakespeare in Love</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000905</id>
+            <name>Roberto Benigni</name>
+        </person>
+        <movie>
+            <id>0118799</id>
+            <name>Vita e bella, La</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000569</id>
+            <name>Gwyneth Paltrow</name>
+        </person>
+        <movie>
+            <id>0138097</id>
+            <name>Shakespeare in Love</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000336</id>
+            <name>James Coburn</name>
+        </person>
+        <movie>
+            <id>0118564</id>
+            <name>Affliction</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001132</id>
+            <name>Judi Dench</name>
+        </person>
+        <movie>
+            <id>0138097</id>
+            <name>Shakespeare in Love</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1999</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000229</id>
+            <name>Steven Spielberg</name>
+        </person>
+        <movie>
+            <id>0120815</id>
+            <name>Saving Private Ryan</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0120338</id>
+            <name>Titanic</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000197</id>
+            <name>Jack Nicholson</name>
+        </person>
+        <movie>
+            <id>0119822</id>
+            <name>As Good As It Gets</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000166</id>
+            <name>Helen Hunt</name>
+        </person>
+        <movie>
+            <id>0119822</id>
+            <name>As Good As It Gets</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000245</id>
+            <name>Robin Williams</name>
+        </person>
+        <movie>
+            <id>0119217</id>
+            <name>Good Will Hunting</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000107</id>
+            <name>Kim Basinger</name>
+        </person>
+        <movie>
+            <id>0119488</id>
+            <name>L.A. Confidential</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1998</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000116</id>
+            <name>James Cameron</name>
+        </person>
+        <movie>
+            <id>0120338</id>
+            <name>Titanic</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0116209</id>
+            <name>English Patient, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001691</id>
+            <name>Geoffrey Rush</name>
+        </person>
+        <movie>
+            <id>0117631</id>
+            <name>Shine</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000531</id>
+            <name>Frances McDormand</name>
+        </person>
+        <movie>
+            <id>0116282</id>
+            <name>Fargo</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000421</id>
+            <name>Cuba Gooding Jr.</name>
+        </person>
+        <movie>
+            <id>0116695</id>
+            <name>Jerry Maguire</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000300</id>
+            <name>Juliette Binoche</name>
+        </person>
+        <movie>
+            <id>0116209</id>
+            <name>English Patient, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1997</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0005237</id>
+            <name>Anthony Minghella</name>
+        </person>
+        <movie>
+            <id>0116209</id>
+            <name>English Patient, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0112573</id>
+            <name>Braveheart</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000115</id>
+            <name>Nicolas Cage</name>
+        </person>
+        <movie>
+            <id>0113627</id>
+            <name>Leaving Las Vegas</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000215</id>
+            <name>Susan Sarandon</name>
+        </person>
+        <movie>
+            <id>0112818</id>
+            <name>Dead Man Walking</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000228</id>
+            <name>Kevin Spacey</name>
+        </person>
+        <movie>
+            <id>0114814</id>
+            <name>Usual Suspects, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000227</id>
+            <name>Mira Sorvino</name>
+        </person>
+        <movie>
+            <id>0113819</id>
+            <name>Mighty Aphrodite</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1996</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000154</id>
+            <name>Mel Gibson</name>
+        </person>
+        <movie>
+            <id>0112573</id>
+            <name>Braveheart</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0109830</id>
+            <name>Forrest Gump</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000158</id>
+            <name>Tom Hanks</name>
+        </person>
+        <movie>
+            <id>0109830</id>
+            <name>Forrest Gump</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001448</id>
+            <name>Jessica Lange</name>
+        </person>
+        <movie>
+            <id>0109306</id>
+            <name>Blue Sky</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001445</id>
+            <name>Martin Landau</name>
+        </person>
+        <movie>
+            <id>0109707</id>
+            <name>Ed Wood</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001848</id>
+            <name>Dianne Wiest</name>
+        </person>
+        <movie>
+            <id>0109348</id>
+            <name>Bullets Over Broadway</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1995</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000709</id>
+            <name>Robert Zemeckis</name>
+        </person>
+        <movie>
+            <id>0109830</id>
+            <name>Forrest Gump</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0108052</id>
+            <name>Schindler's List</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000158</id>
+            <name>Tom Hanks</name>
+        </person>
+        <movie>
+            <id>0107818</id>
+            <name>Philadelphia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000456</id>
+            <name>Holly Hunter</name>
+        </person>
+        <movie>
+            <id>0107822</id>
+            <name>Piano, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000169</id>
+            <name>Tommy Lee Jones</name>
+        </person>
+        <movie>
+            <id>0106977</id>
+            <name>Fugitive, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001593</id>
+            <name>Anna Paquin</name>
+        </person>
+        <movie>
+            <id>0107822</id>
+            <name>Piano, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1994</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000229</id>
+            <name>Steven Spielberg</name>
+        </person>
+        <movie>
+            <id>0108052</id>
+            <name>Schindler's List</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0105695</id>
+            <name>Unforgiven</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000199</id>
+            <name>Al Pacino</name>
+        </person>
+        <movie>
+            <id>0105323</id>
+            <name>Scent of a Woman</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000668</id>
+            <name>Emma Thompson</name>
+        </person>
+        <movie>
+            <id>0104454</id>
+            <name>Howards End</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000432</id>
+            <name>Gene Hackman</name>
+        </person>
+        <movie>
+            <id>0105695</id>
+            <name>Unforgiven</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000673</id>
+            <name>Marisa Tomei</name>
+        </person>
+        <movie>
+            <id>0104952</id>
+            <name>My Cousin Vinny</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1993</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000142</id>
+            <name>Clint Eastwood</name>
+        </person>
+        <movie>
+            <id>0105695</id>
+            <name>Unforgiven</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0102926</id>
+            <name>Silence of the Lambs, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000164</id>
+            <name>Anthony Hopkins</name>
+        </person>
+        <movie>
+            <id>0102926</id>
+            <name>Silence of the Lambs, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000149</id>
+            <name>Jodie Foster</name>
+        </person>
+        <movie>
+            <id>0102926</id>
+            <name>Silence of the Lambs, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001588</id>
+            <name>Jack Palance</name>
+        </person>
+        <movie>
+            <id>0101587</id>
+            <name>City Slickers</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001689</id>
+            <name>Mercedes Ruehl</name>
+        </person>
+        <movie>
+            <id>0101889</id>
+            <name>Fisher King, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1992</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001129</id>
+            <name>Jonathan Demme</name>
+        </person>
+        <movie>
+            <id>0102926</id>
+            <name>Silence of the Lambs, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0099348</id>
+            <name>Dances with Wolves</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000460</id>
+            <name>Jeremy Irons</name>
+        </person>
+        <movie>
+            <id>0100486</id>
+            <name>Reversal of Fortune</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000870</id>
+            <name>Kathy Bates</name>
+        </person>
+        <movie>
+            <id>0100157</id>
+            <name>Misery</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000582</id>
+            <name>Joe Pesci</name>
+        </person>
+        <movie>
+            <id>0099685</id>
+            <name>Goodfellas</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000155</id>
+            <name>Whoopi Goldberg</name>
+        </person>
+        <movie>
+            <id>0099653</id>
+            <name>Ghost</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1991</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000126</id>
+            <name>Kevin Costner</name>
+        </person>
+        <movie>
+            <id>0099348</id>
+            <name>Dances with Wolves</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0097239</id>
+            <name>Driving Miss Daisy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000358</id>
+            <name>Daniel Day-Lewis</name>
+        </person>
+        <movie>
+            <id>0097937</id>
+            <name>My Left Foot</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001788</id>
+            <name>Jessica Tandy</name>
+        </person>
+        <movie>
+            <id>0097239</id>
+            <name>Driving Miss Daisy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000243</id>
+            <name>Denzel Washington</name>
+        </person>
+        <movie>
+            <id>0097441</id>
+            <name>Glory</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0002084</id>
+            <name>Brenda Fricker</name>
+        </person>
+        <movie>
+            <id>0097937</id>
+            <name>My Left Foot</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1990</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000231</id>
+            <name>Oliver Stone</name>
+        </person>
+        <movie>
+            <id>0096969</id>
+            <name>Born on the Fourth of July</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0095953</id>
+            <name>Rain Man</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000163</id>
+            <name>Dustin Hoffman</name>
+        </person>
+        <movie>
+            <id>0095953</id>
+            <name>Rain Man</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000149</id>
+            <name>Jodie Foster</name>
+        </person>
+        <movie>
+            <id>0094608</id>
+            <name>Accused, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000177</id>
+            <name>Kevin Kline</name>
+        </person>
+        <movie>
+            <id>0095159</id>
+            <name>Fish Called Wanda, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000133</id>
+            <name>Geena Davis</name>
+        </person>
+        <movie>
+            <id>0094606</id>
+            <name>Accidental Tourist, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1989</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001469</id>
+            <name>Barry Levinson</name>
+        </person>
+        <movie>
+            <id>0095953</id>
+            <name>Rain Man</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0093389</id>
+            <name>Last Emperor, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000140</id>
+            <name>Michael Douglas</name>
+        </person>
+        <movie>
+            <id>0094291</id>
+            <name>Wall Street</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000333</id>
+            <name>Cher</name>
+        </person>
+        <movie>
+            <id>0093565</id>
+            <name>Moonstruck</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000125</id>
+            <name>Sean Connery</name>
+        </person>
+        <movie>
+            <id>0094226</id>
+            <name>Untouchables, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001156</id>
+            <name>Olympia Dukakis</name>
+        </person>
+        <movie>
+            <id>0093565</id>
+            <name>Moonstruck</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1988</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000934</id>
+            <name>Bernardo Bertolucci</name>
+        </person>
+        <movie>
+            <id>0093389</id>
+            <name>Last Emperor, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0091763</id>
+            <name>Platoon</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000056</id>
+            <name>Paul Newman</name>
+        </person>
+        <movie>
+            <id>0090863</id>
+            <name>Color of Money, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0559144</id>
+            <name>Marlee Matlin</name>
+        </person>
+        <movie>
+            <id>0090830</id>
+            <name>Children of a Lesser God</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000323</id>
+            <name>Michael Caine</name>
+        </person>
+        <movie>
+            <id>0091167</id>
+            <name>Hannah and Her Sisters</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001848</id>
+            <name>Dianne Wiest</name>
+        </person>
+        <movie>
+            <id>0091167</id>
+            <name>Hannah and Her Sisters</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1987</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000231</id>
+            <name>Oliver Stone</name>
+        </person>
+        <movie>
+            <id>0091763</id>
+            <name>Platoon</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0089755</id>
+            <name>Out of Africa</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000458</id>
+            <name>William Hurt</name>
+        </person>
+        <movie>
+            <id>0089424</id>
+            <name>Kiss of the Spider Woman</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0656183</id>
+            <name>Geraldine Page</name>
+        </person>
+        <movie>
+            <id>0090203</id>
+            <name>Trip to Bountiful, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000747</id>
+            <name>Don Ameche</name>
+        </person>
+        <movie>
+            <id>0088933</id>
+            <name>Cocoon</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001378</id>
+            <name>Anjelica Huston</name>
+        </person>
+        <movie>
+            <id>0089841</id>
+            <name>Prizzi's Honor</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1986</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001628</id>
+            <name>Sydney Pollack</name>
+        </person>
+        <movie>
+            <id>0089755</id>
+            <name>Out of Africa</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0086879</id>
+            <name>Amadeus</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000719</id>
+            <name>F. Murray Abraham</name>
+        </person>
+        <movie>
+            <id>0086879</id>
+            <name>Amadeus</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000398</id>
+            <name>Sally Field</name>
+        </person>
+        <movie>
+            <id>0087921</id>
+            <name>Places in the Heart</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0628955</id>
+            <name>Haing S. Ngor</name>
+        </person>
+        <movie>
+            <id>0087553</id>
+            <name>Killing Fields, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001919</id>
+            <name>Peggy Ashcroft</name>
+        </person>
+        <movie>
+            <id>0087892</id>
+            <name>Passage to India, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1985</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001232</id>
+            <name>Milos Forman</name>
+        </person>
+        <movie>
+            <id>0086879</id>
+            <name>Amadeus</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0086425</id>
+            <name>Terms of Endearment</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000380</id>
+            <name>Robert Duvall</name>
+        </person>
+        <movie>
+            <id>0086423</id>
+            <name>Tender Mercies</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000511</id>
+            <name>Shirley MacLaine</name>
+        </person>
+        <movie>
+            <id>0086425</id>
+            <name>Terms of Endearment</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000197</id>
+            <name>Jack Nicholson</name>
+        </person>
+        <movie>
+            <id>0086425</id>
+            <name>Terms of Endearment</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001373</id>
+            <name>Linda Hunt</name>
+        </person>
+        <movie>
+            <id>0086617</id>
+            <name>Year of Living Dangerously, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1984</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000985</id>
+            <name>James L. Brooks</name>
+        </person>
+        <movie>
+            <id>0086425</id>
+            <name>Terms of Endearment</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0083987</id>
+            <name>Gandhi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001426</id>
+            <name>Ben Kingsley</name>
+        </person>
+        <movie>
+            <id>0083987</id>
+            <name>Gandhi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000658</id>
+            <name>Meryl Streep</name>
+        </person>
+        <movie>
+            <id>0084707</id>
+            <name>Sophie's Choice</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001283</id>
+            <name>Louis Gossett Jr.</name>
+        </person>
+        <movie>
+            <id>0084434</id>
+            <name>Officer and a Gentleman, An</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001448</id>
+            <name>Jessica Lange</name>
+        </person>
+        <movie>
+            <id>0084805</id>
+            <name>Tootsie</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1983</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000277</id>
+            <name>Richard Attenborough</name>
+        </person>
+        <movie>
+            <id>0083987</id>
+            <name>Gandhi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0082158</id>
+            <name>Chariots of Fire</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000020</id>
+            <name>Henry Fonda</name>
+        </person>
+        <movie>
+            <id>0082846</id>
+            <name>On Golden Pond</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000031</id>
+            <name>Katharine Hepburn</name>
+        </person>
+        <movie>
+            <id>0082846</id>
+            <name>On Golden Pond</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000024</id>
+            <name>John Gielgud</name>
+        </person>
+        <movie>
+            <id>0082031</id>
+            <name>Arthur</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0822972</id>
+            <name>Maureen Stapleton</name>
+        </person>
+        <movie>
+            <id>0082979</id>
+            <name>Reds</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1982</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000886</id>
+            <name>Warren Beatty</name>
+        </person>
+        <movie>
+            <id>0082979</id>
+            <name>Reds</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0081283</id>
+            <name>Ordinary People</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000134</id>
+            <name>Robert De Niro</name>
+        </person>
+        <movie>
+            <id>0081398</id>
+            <name>Raging Bull</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000651</id>
+            <name>Sissy Spacek</name>
+        </person>
+        <movie>
+            <id>0080549</id>
+            <name>Coal Miner's Daughter</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000459</id>
+            <name>Timothy Hutton</name>
+        </person>
+        <movie>
+            <id>0081283</id>
+            <name>Ordinary People</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0005460</id>
+            <name>Mary Steenburgen</name>
+        </person>
+        <movie>
+            <id>0081150</id>
+            <name>Melvin and Howard</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1981</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000602</id>
+            <name>Robert Redford</name>
+        </person>
+        <movie>
+            <id>0081283</id>
+            <name>Ordinary People</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0079417</id>
+            <name>Kramer vs. Kramer</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000163</id>
+            <name>Dustin Hoffman</name>
+        </person>
+        <movie>
+            <id>0079417</id>
+            <name>Kramer vs. Kramer</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000398</id>
+            <name>Sally Field</name>
+        </person>
+        <movie>
+            <id>0079638</id>
+            <name>Norma Rae</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0002048</id>
+            <name>Melvyn Douglas</name>
+        </person>
+        <movie>
+            <id>0078841</id>
+            <name>Being There</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000658</id>
+            <name>Meryl Streep</name>
+        </person>
+        <movie>
+            <id>0079417</id>
+            <name>Kramer vs. Kramer</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1980</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000914</id>
+            <name>Robert Benton</name>
+        </person>
+        <movie>
+            <id>0079417</id>
+            <name>Kramer vs. Kramer</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0077416</id>
+            <name>Deer Hunter, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000685</id>
+            <name>Jon Voight</name>
+        </person>
+        <movie>
+            <id>0077362</id>
+            <name>Coming Home</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000404</id>
+            <name>Jane Fonda</name>
+        </person>
+        <movie>
+            <id>0077362</id>
+            <name>Coming Home</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000686</id>
+            <name>Christopher Walken</name>
+        </person>
+        <movie>
+            <id>0077416</id>
+            <name>Deer Hunter, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001749</id>
+            <name>Maggie Smith</name>
+        </person>
+        <movie>
+            <id>0077289</id>
+            <name>California Suite</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1979</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001047</id>
+            <name>Michael Cimino</name>
+        </person>
+        <movie>
+            <id>0077416</id>
+            <name>Deer Hunter, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0075686</id>
+            <name>Annie Hall</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000377</id>
+            <name>Richard Dreyfuss</name>
+        </person>
+        <movie>
+            <id>0076095</id>
+            <name>Goodbye Girl, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000473</id>
+            <name>Diane Keaton</name>
+        </person>
+        <movie>
+            <id>0075686</id>
+            <name>Annie Hall</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001673</id>
+            <name>Jason Robards</name>
+        </person>
+        <movie>
+            <id>0076245</id>
+            <name>Julia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000603</id>
+            <name>Vanessa Redgrave</name>
+        </person>
+        <movie>
+            <id>0076245</id>
+            <name>Julia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1978</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000095</id>
+            <name>Woody Allen</name>
+        </person>
+        <movie>
+            <id>0075686</id>
+            <name>Annie Hall</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0075148</id>
+            <name>Rocky</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0002075</id>
+            <name>Peter Finch</name>
+        </person>
+        <movie>
+            <id>0074958</id>
+            <name>Network</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001159</id>
+            <name>Faye Dunaway</name>
+        </person>
+        <movie>
+            <id>0074958</id>
+            <name>Network</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001673</id>
+            <name>Jason Robards</name>
+        </person>
+        <movie>
+            <id>0074119</id>
+            <name>All the President's Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0833152</id>
+            <name>Beatrice Straight</name>
+        </person>
+        <movie>
+            <id>0074958</id>
+            <name>Network</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1977</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000814</id>
+            <name>John G. Avildsen</name>
+        </person>
+        <movie>
+            <id>0075148</id>
+            <name>Rocky</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0073486</id>
+            <name>One Flew Over the Cuckoo's Nest</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000197</id>
+            <name>Jack Nicholson</name>
+        </person>
+        <movie>
+            <id>0073486</id>
+            <name>One Flew Over the Cuckoo's Nest</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001221</id>
+            <name>Louise Fletcher</name>
+        </person>
+        <movie>
+            <id>0073486</id>
+            <name>One Flew Over the Cuckoo's Nest</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0122675</id>
+            <name>George Burns</name>
+        </person>
+        <movie>
+            <id>0073766</id>
+            <name>Sunshine Boys, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0335519</id>
+            <name>Lee Grant</name>
+        </person>
+        <movie>
+            <id>0073692</id>
+            <name>Shampoo</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1976</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001232</id>
+            <name>Milos Forman</name>
+        </person>
+        <movie>
+            <id>0073486</id>
+            <name>One Flew Over the Cuckoo's Nest</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0071562</id>
+            <name>Godfather: Part II, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0138770</id>
+            <name>Art Carney</name>
+        </person>
+        <movie>
+            <id>0071598</id>
+            <name>Harry and Tonto</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000995</id>
+            <name>Ellen Burstyn</name>
+        </person>
+        <movie>
+            <id>0071115</id>
+            <name>Alice Doesn't Live Here Anymore</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000134</id>
+            <name>Robert De Niro</name>
+        </person>
+        <movie>
+            <id>0071562</id>
+            <name>Godfather: Part II, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000006</id>
+            <name>Ingrid Bergman</name>
+        </person>
+        <movie>
+            <id>0071877</id>
+            <name>Murder on the Orient Express</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1975</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000338</id>
+            <name>Francis Ford Coppola</name>
+        </person>
+        <movie>
+            <id>0071562</id>
+            <name>Godfather: Part II, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0070735</id>
+            <name>Sting, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000493</id>
+            <name>Jack Lemmon</name>
+        </person>
+        <movie>
+            <id>0070640</id>
+            <name>Save the Tiger</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0413559</id>
+            <name>Glenda Jackson</name>
+        </person>
+        <movie>
+            <id>0070819</id>
+            <name>Touch of Class, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0002144</id>
+            <name>John Houseman</name>
+        </person>
+        <movie>
+            <id>0070509</id>
+            <name>Paper Chase, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001575</id>
+            <name>Tatum O'Neal</name>
+        </person>
+        <movie>
+            <id>0070510</id>
+            <name>Paper Moon</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1974</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001351</id>
+            <name>George Roy Hill</name>
+        </person>
+        <movie>
+            <id>0070735</id>
+            <name>Sting, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0068646</id>
+            <name>Godfather, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000008</id>
+            <name>Marlon Brando</name>
+        </person>
+        <movie>
+            <id>0068646</id>
+            <name>Godfather, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0591485</id>
+            <name>Liza Minnelli</name>
+        </person>
+        <movie>
+            <id>0068327</id>
+            <name>Cabaret</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001297</id>
+            <name>Joel Grey</name>
+        </person>
+        <movie>
+            <id>0068327</id>
+            <name>Cabaret</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0373012</id>
+            <name>Eileen Heckart</name>
+        </person>
+        <movie>
+            <id>0068326</id>
+            <name>Butterflies Are Free</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1973</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0002080</id>
+            <name>Bob Fosse</name>
+        </person>
+        <movie>
+            <id>0068327</id>
+            <name>Cabaret</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0067116</id>
+            <name>French Connection, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000432</id>
+            <name>Gene Hackman</name>
+        </person>
+        <movie>
+            <id>0067116</id>
+            <name>French Connection, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000404</id>
+            <name>Jane Fonda</name>
+        </person>
+        <movie>
+            <id>0067309</id>
+            <name>Klute</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0424565</id>
+            <name>Ben Johnson</name>
+        </person>
+        <movie>
+            <id>0067328</id>
+            <name>Last Picture Show, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001458</id>
+            <name>Cloris Leachman</name>
+        </person>
+        <movie>
+            <id>0067328</id>
+            <name>Last Picture Show, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1972</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001243</id>
+            <name>William Friedkin</name>
+        </person>
+        <movie>
+            <id>0067116</id>
+            <name>French Connection, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0066206</id>
+            <name>Patton</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001715</id>
+            <name>George C. Scott</name>
+        </person>
+        <movie>
+            <id>0066206</id>
+            <name>Patton</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0413559</id>
+            <name>Glenda Jackson</name>
+        </person>
+        <movie>
+            <id>0066579</id>
+            <name>Women in Love</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0590055</id>
+            <name>John Mills</name>
+        </person>
+        <movie>
+            <id>0066319</id>
+            <name>Ryan's Daughter</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0371040</id>
+            <name>Helen Hayes</name>
+        </person>
+        <movie>
+            <id>0065377</id>
+            <name>Airport</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1971</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0769874</id>
+            <name>Franklin J. Schaffner</name>
+        </person>
+        <movie>
+            <id>0066206</id>
+            <name>Patton</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0064665</id>
+            <name>Midnight Cowboy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000078</id>
+            <name>John Wayne</name>
+        </person>
+        <movie>
+            <id>0065126</id>
+            <name>True Grit</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001749</id>
+            <name>Maggie Smith</name>
+        </person>
+        <movie>
+            <id>0064840</id>
+            <name>Prime of Miss Jean Brodie, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0949574</id>
+            <name>Gig Young</name>
+        </person>
+        <movie>
+            <id>0065088</id>
+            <name>They Shoot Horses, Don't They?</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000443</id>
+            <name>Goldie Hawn</name>
+        </person>
+        <movie>
+            <id>0064117</id>
+            <name>Cactus Flower</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1970</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0772259</id>
+            <name>John Schlesinger</name>
+        </person>
+        <movie>
+            <id>0064665</id>
+            <name>Midnight Cowboy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0063385</id>
+            <name>Oliver!</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0731772</id>
+            <name>Cliff Robertson</name>
+        </person>
+        <movie>
+            <id>0062794</id>
+            <name>Charly</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000659</id>
+            <name>Barbra Streisand</name>
+        </person>
+        <movie>
+            <id>0062994</id>
+            <name>Funny Girl</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000031</id>
+            <name>Katharine Hepburn</name>
+        </person>
+        <movie>
+            <id>0063227</id>
+            <name>The Lion in Winter</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0016776</id>
+            <name>Jack Albertson</name>
+        </person>
+        <movie>
+            <id>0063654</id>
+            <name>Subject Was Roses, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0002106</id>
+            <name>Ruth Gordon</name>
+        </person>
+        <movie>
+            <id>0063522</id>
+            <name>Rosemary's Baby</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1969</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0715346</id>
+            <name>Carol Reed</name>
+        </person>
+        <movie>
+            <id>0063385</id>
+            <name>Oliver!</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0061811</id>
+            <name>In the Heat of the Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001768</id>
+            <name>Rod Steiger</name>
+        </person>
+        <movie>
+            <id>0061811</id>
+            <name>In the Heat of the Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000031</id>
+            <name>Katharine Hepburn</name>
+        </person>
+        <movie>
+            <id>0061735</id>
+            <name>Guess Who's Coming to Dinner</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001421</id>
+            <name>George Kennedy</name>
+        </person>
+        <movie>
+            <id>0061512</id>
+            <name>Cool Hand Luke</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0663820</id>
+            <name>Estelle Parsons</name>
+        </person>
+        <movie>
+            <id>0061418</id>
+            <name>Bonnie and Clyde</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1968</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001566</id>
+            <name>Mike Nichols</name>
+        </person>
+        <movie>
+            <id>0061722</id>
+            <name>Graduate, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0060665</id>
+            <name>Man for All Seasons, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0006890</id>
+            <name>Paul Scofield</name>
+        </person>
+        <movie>
+            <id>0060665</id>
+            <name>Man for All Seasons, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000072</id>
+            <name>Elizabeth Taylor</name>
+        </person>
+        <movie>
+            <id>0061184</id>
+            <name>Who's Afraid of Virginia Woolf?</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000527</id>
+            <name>Walter Matthau</name>
+        </person>
+        <movie>
+            <id>0060424</id>
+            <name>Fortune Cookie, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0006800</id>
+            <name>Sandy Dennis</name>
+        </person>
+        <movie>
+            <id>0061184</id>
+            <name>Who's Afraid of Virginia Woolf?</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1967</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0003593</id>
+            <name>Fred Zinnemann</name>
+        </person>
+        <movie>
+            <id>0060665</id>
+            <name>Man for All Seasons, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0059742</id>
+            <name>Sound of Music, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001511</id>
+            <name>Lee Marvin</name>
+        </person>
+        <movie>
+            <id>0059017</id>
+            <name>Cat Ballou</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001046</id>
+            <name>Julie Christie</name>
+        </person>
+        <movie>
+            <id>0059084</id>
+            <name>Darling</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000842</id>
+            <name>Martin Balsam</name>
+        </person>
+        <movie>
+            <id>0059798</id>
+            <name>Thousand Clowns, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001859</id>
+            <name>Shelley Winters</name>
+        </person>
+        <movie>
+            <id>0059573</id>
+            <name>Patch of Blue, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1966</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0936404</id>
+            <name>Robert Wise</name>
+        </person>
+        <movie>
+            <id>0059742</id>
+            <name>Sound of Music, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0058385</id>
+            <name>My Fair Lady</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001322</id>
+            <name>Rex Harrison</name>
+        </person>
+        <movie>
+            <id>0058385</id>
+            <name>My Fair Lady</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000267</id>
+            <name>Julie Andrews</name>
+        </person>
+        <movie>
+            <id>0058331</id>
+            <name>Mary Poppins</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001811</id>
+            <name>Peter Ustinov</name>
+        </person>
+        <movie>
+            <id>0058672</id>
+            <name>Topkapi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0444321</id>
+            <name>Lila Kedrova</name>
+        </person>
+        <movie>
+            <id>0057831</id>
+            <name>Alexis Zorbas</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1965</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0002030</id>
+            <name>George Cukor</name>
+        </person>
+        <movie>
+            <id>0058385</id>
+            <name>My Fair Lady</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0057590</id>
+            <name>Tom Jones</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001627</id>
+            <name>Sidney Poitier</name>
+        </person>
+        <movie>
+            <id>0057251</id>
+            <name>Lilies of the Field</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0623658</id>
+            <name>Patricia Neal</name>
+        </person>
+        <movie>
+            <id>0057163</id>
+            <name>Hud</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0002048</id>
+            <name>Melvyn Douglas</name>
+        </person>
+        <movie>
+            <id>0057163</id>
+            <name>Hud</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0751983</id>
+            <name>Margaret Rutherford</name>
+        </person>
+        <movie>
+            <id>0057634</id>
+            <name>V.I.P.s, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1964</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0724798</id>
+            <name>Tony Richardson</name>
+        </person>
+        <movie>
+            <id>0057590</id>
+            <name>Tom Jones</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0056172</id>
+            <name>Lawrence of Arabia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000060</id>
+            <name>Gregory Peck</name>
+        </person>
+        <movie>
+            <id>0056592</id>
+            <name>To Kill a Mockingbird</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000843</id>
+            <name>Anne Bancroft</name>
+        </person>
+        <movie>
+            <id>0056241</id>
+            <name>Miracle Worker, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0003225</id>
+            <name>Ed Begley</name>
+        </person>
+        <movie>
+            <id>0056541</id>
+            <name>Sweet Bird of Youth</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001157</id>
+            <name>Patty Duke</name>
+        </person>
+        <movie>
+            <id>0056241</id>
+            <name>Miracle Worker, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1963</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000180</id>
+            <name>David Lean</name>
+        </person>
+        <movie>
+            <id>0056172</id>
+            <name>Lawrence of Arabia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0055614</id>
+            <name>West Side Story</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001703</id>
+            <name>Maximilian Schell</name>
+        </person>
+        <movie>
+            <id>0055031</id>
+            <name>Judgment at Nuremberg</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000047</id>
+            <name>Sophia Loren</name>
+        </person>
+        <movie>
+            <id>0054749</id>
+            <name>Ciociara, La</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001995</id>
+            <name>George Chakiris</name>
+        </person>
+        <movie>
+            <id>0055614</id>
+            <name>West Side Story</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001549</id>
+            <name>Rita Moreno</name>
+        </person>
+        <movie>
+            <id>0055614</id>
+            <name>West Side Story</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1962</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0936404</id>
+            <name>Robert Wise</name>
+        </person>
+        <movie>
+            <id>0055614</id>
+            <name>West Side Story</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0053604</id>
+            <name>Apartment, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000044</id>
+            <name>Burt Lancaster</name>
+        </person>
+        <movie>
+            <id>0053793</id>
+            <name>Elmer Gantry</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000072</id>
+            <name>Elizabeth Taylor</name>
+        </person>
+        <movie>
+            <id>0053622</id>
+            <name>BUtterfield 8</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001811</id>
+            <name>Peter Ustinov</name>
+        </person>
+        <movie>
+            <id>0054331</id>
+            <name>Spartacus</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0429250</id>
+            <name>Shirley Jones</name>
+        </person>
+        <movie>
+            <id>0053793</id>
+            <name>Elmer Gantry</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1961</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000697</id>
+            <name>Billy Wilder</name>
+        </person>
+        <movie>
+            <id>0053604</id>
+            <name>Apartment, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0052618</id>
+            <name>Ben-Hur</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000032</id>
+            <name>Charlton Heston</name>
+        </person>
+        <movie>
+            <id>0052618</id>
+            <name>Ben-Hur</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0797531</id>
+            <name>Simone Signoret</name>
+        </person>
+        <movie>
+            <id>0053226</id>
+            <name>Room at the Top</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0341518</id>
+            <name>Hugh Griffith</name>
+        </person>
+        <movie>
+            <id>0052618</id>
+            <name>Ben-Hur</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001859</id>
+            <name>Shelley Winters</name>
+        </person>
+        <movie>
+            <id>0052738</id>
+            <name>Diary of Anne Frank, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1960</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0943758</id>
+            <name>William Wyler</name>
+        </person>
+        <movie>
+            <id>0052618</id>
+            <name>Ben-Hur</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0051658</id>
+            <name>Gigi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000057</id>
+            <name>David Niven</name>
+        </person>
+        <movie>
+            <id>0052182</id>
+            <name>Separate Tables</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001333</id>
+            <name>Susan Hayward</name>
+        </person>
+        <movie>
+            <id>0051758</id>
+            <name>I Want to Live!</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0412322</id>
+            <name>Burl Ives</name>
+        </person>
+        <movie>
+            <id>0051411</id>
+            <name>Big Country, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0384908</id>
+            <name>Wendy Hiller</name>
+        </person>
+        <movie>
+            <id>0052182</id>
+            <name>Separate Tables</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1959</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0591486</id>
+            <name>Vincente Minnelli</name>
+        </person>
+        <movie>
+            <id>0051658</id>
+            <name>Gigi</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0050212</id>
+            <name>Bridge on the River Kwai, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000027</id>
+            <name>Alec Guinness</name>
+        </person>
+        <movie>
+            <id>0050212</id>
+            <name>Bridge on the River Kwai, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0940946</id>
+            <name>Joanne Woodward</name>
+        </person>
+        <movie>
+            <id>0051077</id>
+            <name>Three Faces of Eve, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000999</id>
+            <name>Red Buttons</name>
+        </person>
+        <movie>
+            <id>0050933</id>
+            <name>Sayonara</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0880855</id>
+            <name>Miyoshi Umeki</name>
+        </person>
+        <movie>
+            <id>0050933</id>
+            <name>Sayonara</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1958</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000180</id>
+            <name>David Lean</name>
+        </person>
+        <movie>
+            <id>0050212</id>
+            <name>Bridge on the River Kwai, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0048960</id>
+            <name>Around the World in Eighty Days</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000989</id>
+            <name>Yul Brynner</name>
+        </person>
+        <movie>
+            <id>0049408</id>
+            <name>King and I, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000006</id>
+            <name>Ingrid Bergman</name>
+        </person>
+        <movie>
+            <id>0048947</id>
+            <name>Anastasia</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000063</id>
+            <name>Anthony Quinn</name>
+        </person>
+        <movie>
+            <id>0049456</id>
+            <name>Lust for Life</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0540416</id>
+            <name>Dorothy Malone</name>
+        </person>
+        <movie>
+            <id>0049966</id>
+            <name>Written on the Wind</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1957</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0828419</id>
+            <name>George Stevens</name>
+        </person>
+        <movie>
+            <id>0049261</id>
+            <name>Giant</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0048356</id>
+            <name>Marty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000308</id>
+            <name>Ernest Borgnine</name>
+        </person>
+        <movie>
+            <id>0048356</id>
+            <name>Marty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0536167</id>
+            <name>Anna Magnani</name>
+        </person>
+        <movie>
+            <id>0048563</id>
+            <name>Rose Tattoo, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000493</id>
+            <name>Jack Lemmon</name>
+        </person>
+        <movie>
+            <id>0048380</id>
+            <name>Mister Roberts</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0886888</id>
+            <name>Jo Van Fleet</name>
+        </person>
+        <movie>
+            <id>0048028</id>
+            <name>East of Eden</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1956</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0542720</id>
+            <name>Delbert Mann</name>
+        </person>
+        <movie>
+            <id>0048356</id>
+            <name>Marty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0047296</id>
+            <name>On the Waterfront</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000008</id>
+            <name>Marlon Brando</name>
+        </person>
+        <movie>
+            <id>0047296</id>
+            <name>On the Waterfront</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000038</id>
+            <name>Grace Kelly</name>
+        </person>
+        <movie>
+            <id>0046874</id>
+            <name>Country Girl, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0639529</id>
+            <name>Edmond O'Brien</name>
+        </person>
+        <movie>
+            <id>0046754</id>
+            <name>Barefoot Contessa, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001693</id>
+            <name>Eva Marie Saint</name>
+        </person>
+        <movie>
+            <id>0047296</id>
+            <name>On the Waterfront</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1955</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001415</id>
+            <name>Elia Kazan</name>
+        </person>
+        <movie>
+            <id>0047296</id>
+            <name>On the Waterfront</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0045793</id>
+            <name>From Here to Eternity</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000034</id>
+            <name>William Holden</name>
+        </person>
+        <movie>
+            <id>0046359</id>
+            <name>Stalag 17</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000030</id>
+            <name>Audrey Hepburn</name>
+        </person>
+        <movie>
+            <id>0046250</id>
+            <name>Roman Holiday</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000069</id>
+            <name>Frank Sinatra</name>
+        </person>
+        <movie>
+            <id>0045793</id>
+            <name>From Here to Eternity</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001656</id>
+            <name>Donna Reed</name>
+        </person>
+        <movie>
+            <id>0045793</id>
+            <name>From Here to Eternity</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1954</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0003593</id>
+            <name>Fred Zinnemann</name>
+        </person>
+        <movie>
+            <id>0045793</id>
+            <name>From Here to Eternity</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0044672</id>
+            <name>Greatest Show on Earth, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000011</id>
+            <name>Gary Cooper</name>
+        </person>
+        <movie>
+            <id>0044706</id>
+            <name>High Noon</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0095804</id>
+            <name>Shirley Booth</name>
+        </person>
+        <movie>
+            <id>0044509</id>
+            <name>Come Back, Little Sheba</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000063</id>
+            <name>Anthony Quinn</name>
+        </person>
+        <movie>
+            <id>0045296</id>
+            <name>Viva Zapata!</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0002108</id>
+            <name>Gloria Grahame</name>
+        </person>
+        <movie>
+            <id>0044391</id>
+            <name>Bad and the Beautiful, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1953</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000406</id>
+            <name>John Ford</name>
+        </person>
+        <movie>
+            <id>0045061</id>
+            <name>Quiet Man, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0043278</id>
+            <name>American in Paris, An</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000007</id>
+            <name>Humphrey Bogart</name>
+        </person>
+        <movie>
+            <id>0043265</id>
+            <name>African Queen, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000046</id>
+            <name>Vivien Leigh</name>
+        </person>
+        <movie>
+            <id>0044081</id>
+            <name>Streetcar Named Desire, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001500</id>
+            <name>Karl Malden</name>
+        </person>
+        <movie>
+            <id>0044081</id>
+            <name>Streetcar Named Desire, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0001375</id>
+            <name>Kim Hunter</name>
+        </person>
+        <movie>
+            <id>0044081</id>
+            <name>Streetcar Named Desire, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1952</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0828419</id>
+            <name>George Stevens</name>
+        </person>
+        <movie>
+            <id>0043924</id>
+            <name>Place in the Sun, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0042192</id>
+            <name>All About Eve</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001207</id>
+            <name>Jose Ferrer</name>
+        </person>
+        <movie>
+            <id>0042367</id>
+            <name>Cyrano de Bergerac</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0391062</id>
+            <name>Judy Holliday</name>
+        </person>
+        <movie>
+            <id>0042276</id>
+            <name>Born Yesterday</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001695</id>
+            <name>George Sanders</name>
+        </person>
+        <movie>
+            <id>0042192</id>
+            <name>All About Eve</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0401449</id>
+            <name>Josephine Hull</name>
+        </person>
+        <movie>
+            <id>0042546</id>
+            <name>Harvey</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1951</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000581</id>
+            <name>Joseph L. Mankiewicz</name>
+        </person>
+        <movie>
+            <id>0042192</id>
+            <name>All About Eve</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0041113</id>
+            <name>All the King's Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0002024</id>
+            <name>Broderick Crawford</name>
+        </person>
+        <movie>
+            <id>0041113</id>
+            <name>All the King's Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000014</id>
+            <name>Olivia de Havilland</name>
+        </person>
+        <movie>
+            <id>0041452</id>
+            <name>Heiress, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0415591</id>
+            <name>Dean Jagger</name>
+        </person>
+        <movie>
+            <id>0041996</id>
+            <name>Twelve O'Clock High</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0564790</id>
+            <name>Mercedes McCambridge</name>
+        </person>
+        <movie>
+            <id>0041113</id>
+            <name>All the King's Men</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1950</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000581</id>
+            <name>Joseph L. Mankiewicz</name>
+        </person>
+        <movie>
+            <id>0041587</id>
+            <name>Letter to Three Wives, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0040416</id>
+            <name>Hamlet</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000059</id>
+            <name>Laurence Olivier</name>
+        </person>
+        <movie>
+            <id>0040416</id>
+            <name>Hamlet</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0943837</id>
+            <name>Jane Wyman</name>
+        </person>
+        <movie>
+            <id>0040495</id>
+            <name>Johnny Belinda</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0404158</id>
+            <name>Walter Huston</name>
+        </person>
+        <movie>
+            <id>0040897</id>
+            <name>Treasure of the Sierra Madre, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0872456</id>
+            <name>Claire Trevor</name>
+        </person>
+        <movie>
+            <id>0040506</id>
+            <name>Key Largo</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1949</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001379</id>
+            <name>John Huston</name>
+        </person>
+        <movie>
+            <id>0040897</id>
+            <name>Treasure of the Sierra Madre, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0039416</id>
+            <name>Gentleman's Agreement</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0172903</id>
+            <name>Ronald Colman</name>
+        </person>
+        <movie>
+            <id>0039335</id>
+            <name>Double Life, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0949835</id>
+            <name>Loretta Young</name>
+        </person>
+        <movie>
+            <id>0039370</id>
+            <name>Farmer's Daughter, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0350324</id>
+            <name>Edmund Gwenn</name>
+        </person>
+        <movie>
+            <id>0039628</id>
+            <name>Miracle on 34th Street</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0002141</id>
+            <name>Celeste Holm</name>
+        </person>
+        <movie>
+            <id>0039416</id>
+            <name>Gentleman's Agreement</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1948</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001415</id>
+            <name>Elia Kazan</name>
+        </person>
+        <movie>
+            <id>0039416</id>
+            <name>Gentleman's Agreement</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0036868</id>
+            <name>Best Years of Our Lives, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0545298</id>
+            <name>Fredric March</name>
+        </person>
+        <movie>
+            <id>0036868</id>
+            <name>Best Years of Our Lives, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000014</id>
+            <name>Olivia de Havilland</name>
+        </person>
+        <movie>
+            <id>0039040</id>
+            <name>To Each His Own</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0751174</id>
+            <name>Harold Russell</name>
+        </person>
+        <movie>
+            <id>0036868</id>
+            <name>Best Years of Our Lives, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000879</id>
+            <name>Anne Baxter</name>
+        </person>
+        <movie>
+            <id>0038873</id>
+            <name>Razor's Edge, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1947</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0943758</id>
+            <name>William Wyler</name>
+        </person>
+        <movie>
+            <id>0036868</id>
+            <name>Best Years of Our Lives, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0037884</id>
+            <name>Lost Weekend, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001537</id>
+            <name>Ray Milland</name>
+        </person>
+        <movie>
+            <id>0037884</id>
+            <name>Lost Weekend, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001076</id>
+            <name>Joan Crawford</name>
+        </person>
+        <movie>
+            <id>0037913</id>
+            <name>Mildred Pierce</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0007223</id>
+            <name>James Dunn</name>
+        </person>
+        <movie>
+            <id>0038190</id>
+            <name>Tree Grows in Brooklyn, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0720843</id>
+            <name>Anne Revere</name>
+        </person>
+        <movie>
+            <id>0037120</id>
+            <name>National Velvet</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1946</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000697</id>
+            <name>Billy Wilder</name>
+        </person>
+        <movie>
+            <id>0037884</id>
+            <name>Lost Weekend, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0036872</id>
+            <name>Going My Way</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001078</id>
+            <name>Bing Crosby</name>
+        </person>
+        <movie>
+            <id>0036872</id>
+            <name>Going My Way</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000006</id>
+            <name>Ingrid Bergman</name>
+        </person>
+        <movie>
+            <id>0036855</id>
+            <name>Gaslight</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0280178</id>
+            <name>Barry Fitzgerald</name>
+        </person>
+        <movie>
+            <id>0036872</id>
+            <name>Going My Way</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000856</id>
+            <name>Ethel Barrymore</name>
+        </person>
+        <movie>
+            <id>0037135</id>
+            <name>None But the Lonely Heart</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1945</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0564970</id>
+            <name>Leo McCarey</name>
+        </person>
+        <movie>
+            <id>0036872</id>
+            <name>Going My Way</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0034583</id>
+            <name>Casablanca</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0510134</id>
+            <name>Paul Lukas</name>
+        </person>
+        <movie>
+            <id>0036515</id>
+            <name>Watch on the Rhine</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0428354</id>
+            <name>Jennifer Jones</name>
+        </person>
+        <movie>
+            <id>0036377</id>
+            <name>Song of Bernadette, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0002013</id>
+            <name>Charles Coburn</name>
+        </person>
+        <movie>
+            <id>0036172</id>
+            <name>More the Merrier, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0668093</id>
+            <name>Katina Paxinou</name>
+        </person>
+        <movie>
+            <id>0035896</id>
+            <name>For Whom the Bell Tolls</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1944</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0002031</id>
+            <name>Michael Curtiz</name>
+        </person>
+        <movie>
+            <id>0034583</id>
+            <name>Casablanca</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0035093</id>
+            <name>Mrs. Miniver</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000010</id>
+            <name>James Cagney</name>
+        </person>
+        <movie>
+            <id>0035575</id>
+            <name>Yankee Doodle Dandy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0002093</id>
+            <name>Greer Garson</name>
+        </person>
+        <movie>
+            <id>0035093</id>
+            <name>Mrs. Miniver</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0001336</id>
+            <name>Van Heflin</name>
+        </person>
+        <movie>
+            <id>0033774</id>
+            <name>Johnny Eager</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0942863</id>
+            <name>Teresa Wright</name>
+        </person>
+        <movie>
+            <id>0035093</id>
+            <name>Mrs. Miniver</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1943</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0943758</id>
+            <name>William Wyler</name>
+        </person>
+        <movie>
+            <id>0035093</id>
+            <name>Mrs. Miniver</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0033729</id>
+            <name>How Green Was My Valley</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000011</id>
+            <name>Gary Cooper</name>
+        </person>
+        <movie>
+            <id>0034167</id>
+            <name>Sergeant York</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000021</id>
+            <name>Joan Fontaine</name>
+        </person>
+        <movie>
+            <id>0034248</id>
+            <name>Suspicion</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0187981</id>
+            <name>Donald Crisp</name>
+        </person>
+        <movie>
+            <id>0033729</id>
+            <name>How Green Was My Valley</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0000802</id>
+            <name>Mary Astor</name>
+        </person>
+        <movie>
+            <id>0033677</id>
+            <name>Great Lie, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1942</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000406</id>
+            <name>John Ford</name>
+        </person>
+        <movie>
+            <id>0033729</id>
+            <name>How Green Was My Valley</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0032976</id>
+            <name>Rebecca</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000071</id>
+            <name>James Stewart</name>
+        </person>
+        <movie>
+            <id>0032904</id>
+            <name>Philadelphia Story, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001677</id>
+            <name>Ginger Rogers</name>
+        </person>
+        <movie>
+            <id>0032671</id>
+            <name>Kitty Foyle: The Natural History of a Woman</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000974</id>
+            <name>Walter Brennan</name>
+        </person>
+        <movie>
+            <id>0033253</id>
+            <name>Westerner, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0002034</id>
+            <name>Jane Darwell</name>
+        </person>
+        <movie>
+            <id>0032551</id>
+            <name>Grapes of Wrath, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1941</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000406</id>
+            <name>John Ford</name>
+        </person>
+        <movie>
+            <id>0032551</id>
+            <name>Grapes of Wrath, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0031381</id>
+            <name>Gone with the Wind</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0232196</id>
+            <name>Robert Donat</name>
+        </person>
+        <movie>
+            <id>0031385</id>
+            <name>Goodbye, Mr. Chips</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000046</id>
+            <name>Vivien Leigh</name>
+        </person>
+        <movie>
+            <id>0031381</id>
+            <name>Gone with the Wind</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0593775</id>
+            <name>Thomas Mitchell</name>
+        </person>
+        <movie>
+            <id>0031971</id>
+            <name>Stagecoach</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0567408</id>
+            <name>Hattie McDaniel</name>
+        </person>
+        <movie>
+            <id>0031381</id>
+            <name>Gone with the Wind</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1940</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0281808</id>
+            <name>Victor Fleming</name>
+        </person>
+        <movie>
+            <id>0031381</id>
+            <name>Gone with the Wind</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0030993</id>
+            <name>You Can't Take It with You</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000075</id>
+            <name>Spencer Tracy</name>
+        </person>
+        <movie>
+            <id>0029942</id>
+            <name>Boys Town</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000012</id>
+            <name>Bette Davis</name>
+        </person>
+        <movie>
+            <id>0030287</id>
+            <name>Jezebel</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000974</id>
+            <name>Walter Brennan</name>
+        </person>
+        <movie>
+            <id>0030317</id>
+            <name>Kentucky</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0047810</id>
+            <name>Fay Bainter</name>
+        </person>
+        <movie>
+            <id>0030287</id>
+            <name>Jezebel</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1939</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001008</id>
+            <name>Frank Capra</name>
+        </person>
+        <movie>
+            <id>0030993</id>
+            <name>You Can't Take It with You</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0029146</id>
+            <name>Life of Emile Zola, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000075</id>
+            <name>Spencer Tracy</name>
+        </person>
+        <movie>
+            <id>0028691</id>
+            <name>Captains Courageous</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0707023</id>
+            <name>Luise Rainer</name>
+        </person>
+        <movie>
+            <id>0028944</id>
+            <name>Good Earth, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0771584</id>
+            <name>Joseph Schildkraut</name>
+        </person>
+        <movie>
+            <id>0029146</id>
+            <name>Life of Emile Zola, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0103567</id>
+            <name>Alice Brady</name>
+        </person>
+        <movie>
+            <id>0029047</id>
+            <name>In Old Chicago</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1938</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0564970</id>
+            <name>Leo McCarey</name>
+        </person>
+        <movie>
+            <id>0028597</id>
+            <name>Awful Truth, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0027698</id>
+            <name>Great Ziegfeld, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0612847</id>
+            <name>Paul Muni</name>
+        </person>
+        <movie>
+            <id>0028313</id>
+            <name>Story of Louis Pasteur, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0707023</id>
+            <name>Luise Rainer</name>
+        </person>
+        <movie>
+            <id>0027698</id>
+            <name>Great Ziegfeld, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-SUPPORTING-ACTOR</type>
+        <person>
+            <id>0000974</id>
+            <name>Walter Brennan</name>
+        </person>
+        <movie>
+            <id>0027459</id>
+            <name>Come and Get It</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-SUPPORTING-ACTRESS</type>
+        <person>
+            <id>0814216</id>
+            <name>Gale Sondergaard</name>
+        </person>
+        <movie>
+            <id>0027300</id>
+            <name>Anthony Adverse</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1937</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001008</id>
+            <name>Frank Capra</name>
+        </person>
+        <movie>
+            <id>0027996</id>
+            <name>Mr. Deeds Goes to Town</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1936</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0026752</id>
+            <name>Mutiny on the Bounty</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1936</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0572142</id>
+            <name>Victor McLaglen</name>
+        </person>
+        <movie>
+            <id>0026529</id>
+            <name>Informer, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1936</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000012</id>
+            <name>Bette Davis</name>
+        </person>
+        <movie>
+            <id>0026261</id>
+            <name>Dangerous</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1936</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0000406</id>
+            <name>John Ford</name>
+        </person>
+        <movie>
+            <id>0026529</id>
+            <name>Informer, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1935</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0025316</id>
+            <name>It Happened One Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1935</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000022</id>
+            <name>Clark Gable</name>
+        </person>
+        <movie>
+            <id>0025316</id>
+            <name>It Happened One Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1935</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0001055</id>
+            <name>Claudette Colbert</name>
+        </person>
+        <movie>
+            <id>0025316</id>
+            <name>It Happened One Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1935</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0001008</id>
+            <name>Frank Capra</name>
+        </person>
+        <movie>
+            <id>0025316</id>
+            <name>It Happened One Night</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1934</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0023876</id>
+            <name>Cavalcade</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1934</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0001452</id>
+            <name>Charles Laughton</name>
+        </person>
+        <movie>
+            <id>0024473</id>
+            <name>Private Life of Henry VIII., The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1934</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0000031</id>
+            <name>Katharine Hepburn</name>
+        </person>
+        <movie>
+            <id>0024353</id>
+            <name>Morning Glory</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1934</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0515979</id>
+            <name>Frank Lloyd</name>
+        </person>
+        <movie>
+            <id>0023876</id>
+            <name>Cavalcade</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1932</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0022958</id>
+            <name>Grand Hotel</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1932</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000891</id>
+            <name>Wallace Beery</name>
+        </person>
+        <movie>
+            <id>0021730</id>
+            <name>Champ, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1932</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0371040</id>
+            <name>Helen Hayes</name>
+        </person>
+        <movie>
+            <id>0022386</id>
+            <name>Sin of Madelon Claudet, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1932</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0097648</id>
+            <name>Frank Borzage</name>
+        </person>
+        <movie>
+            <id>0021635</id>
+            <name>Bad Girl</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1931</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0021746</id>
+            <name>Cimarron</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1931</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0000859</id>
+            <name>Lionel Barrymore</name>
+        </person>
+        <movie>
+            <id>0021885</id>
+            <name>Free Soul, A</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1931</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0237597</id>
+            <name>Marie Dressler</name>
+        </person>
+        <movie>
+            <id>0021148</id>
+            <name>Min and Bill</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1931</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0851537</id>
+            <name>Norman Taurog</name>
+        </person>
+        <movie>
+            <id>0022397</id>
+            <name>Skippy</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1930</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0019729</id>
+            <name>Broadway Melody, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1930</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0062828</id>
+            <name>Warner Baxter</name>
+        </person>
+        <movie>
+            <id>0020018</id>
+            <name>In Old Arizona</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1930</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0681933</id>
+            <name>Mary Pickford</name>
+        </person>
+        <movie>
+            <id>0019788</id>
+            <name>Coquette</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1930</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0515979</id>
+            <name>Frank Lloyd</name>
+        </person>
+        <movie>
+            <id>0019824</id>
+            <name>Divine Lady, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1929</year>
+        <type>BEST-PICTURE</type>
+        <movie>
+            <id>0018578</id>
+            <name>Wings</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1929</year>
+        <type>BEST-ACTOR</type>
+        <person>
+            <id>0417837</id>
+            <name>Emil Jannings</name>
+        </person>
+        <movie>
+            <id>0019071</id>
+            <name>Last Command, The</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1929</year>
+        <type>BEST-ACTRESS</type>
+        <person>
+            <id>0310980</id>
+            <name>Janet Gaynor</name>
+        </person>
+        <movie>
+            <id>0018379</id>
+            <name>Seventh Heaven</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1929</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0587277</id>
+            <name>Lewis Milestone</name>
+        </person>
+        <movie>
+            <id>0018515</id>
+            <name>Two Arabian Knights</name>
+        </movie>
+    </oscar>
+    <oscar>
+        <year>1929</year>
+        <type>BEST-DIRECTOR</type>
+        <person>
+            <id>0097648</id>
+            <name>Frank Borzage</name>
+        </person>
+        <movie>
+            <id>0018379</id>
+            <name>Seventh Heaven</name>
+        </movie>
+    </oscar>
+</oscars>
+
+

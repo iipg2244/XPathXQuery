@@ -1,0 +1,29 @@
+<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XPathXQuery"
+        xmlns:ViewModel="clr-namespace:XPathXQuery.ViewModels" x:Class="XPathXQuery.Views.VPeopleCRUD"
+        mc:Ignorable="d"
+        Title="Persones Add-Update" Height="236.001" Width="350"
+    ResizeMode="NoResize">
+    <Window.DataContext>
+        <ViewModel:VMPeopleCRUD/>
+    </Window.DataContext>
+    <Grid>
+        <Label Content="Codi" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="81,21,149,0" VerticalAlignment="Top" Text="{Binding Id}" VerticalContentAlignment="Center"/>
+        <CheckBox Content="" HorizontalAlignment="Right" Margin="0,28,42,0" VerticalAlignment="Top" RenderTransformOrigin="0.567,0.778" IsChecked="{Binding Actor}"/>
+        <Label Content="Nom" HorizontalAlignment="Left" Margin="30,62,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="81,64,149,0" VerticalAlignment="Top" Text="{Binding Name}" VerticalContentAlignment="Center"/>
+        <CheckBox Content="" HorizontalAlignment="Right" Margin="0,72,42,0" VerticalAlignment="Top" IsChecked="{Binding Director}"/>
+        <Label Content="Data de naixement" HorizontalAlignment="Left" Margin="30,99,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="160,99,25,0" VerticalAlignment="Top" Text="{Binding Data}" VerticalContentAlignment="Center"/>
+        <Label Content="Actor" HorizontalAlignment="Right" Margin="0,21,86,0" VerticalAlignment="Top"/>
+        <Label Content="Director" HorizontalAlignment="Right" Margin="0,64,72,0" VerticalAlignment="Top"/>
+        <Label Content="Població" HorizontalAlignment="Left" Margin="30,132,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="160,132,25,0" VerticalAlignment="Top" Text="{Binding Pob}" VerticalContentAlignment="Center"/>
+        <Button Click="acceptar" Content="Acceptar" Margin="0,167,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="82" />
+    </Grid>
+</Window>

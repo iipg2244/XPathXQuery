@@ -1,0 +1,68 @@
+<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XPathXQuery"
+        xmlns:ViewModel="clr-namespace:XPathXQuery.ViewModels" x:Class="XPathXQuery.Views.VMoviesCRUD"
+        mc:Ignorable="d"
+        Title="Pel·lícules Add-Update" Height="552.624" Width="530.299"
+    ResizeMode="NoResize">
+    <Window.DataContext>
+        <ViewModel:VMMoviesCRUD/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Codi" HorizontalAlignment="Left" Margin="30,19,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="115,21,20,0" VerticalAlignment="Top" Text="{Binding Id}" VerticalContentAlignment="Center"/>
+        <Label Content="Títol" HorizontalAlignment="Left" Margin="30,62,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="115,64,20,0" VerticalAlignment="Top" Text="{Binding Name}" VerticalContentAlignment="Center"/>
+        <Label Content="Any" HorizontalAlignment="Left" Margin="30,99,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="115,99,20,0" VerticalAlignment="Top" Text="{Binding Year}" VerticalContentAlignment="Center"/>
+        <Label Content="Classificació" HorizontalAlignment="Left" Margin="30,132,0,0" VerticalAlignment="Top"/>
+        <TextBox Height="23" Margin="115,132,20,0" VerticalAlignment="Top" Text="{Binding Rating}" VerticalContentAlignment="Center"/>
+        <Label Content="Durada" HorizontalAlignment="Left" Margin="10,19,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBox Height="23" Margin="115,21,30,0" VerticalAlignment="Top" Text="{Binding Runtime}" VerticalContentAlignment="Center" Grid.Column="1"/>
+        <Label Content="Génere" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBox Height="23" Margin="115,64,30,0" VerticalAlignment="Top" Text="{Binding Genre}" VerticalContentAlignment="Center" Grid.Column="1"/>
+        <Label Content="Rang de guanys" HorizontalAlignment="Left" Margin="10,99,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBox Height="23" Margin="115,99,30,0" VerticalAlignment="Top" Text="{Binding Earnings_rank}" VerticalContentAlignment="Center" Grid.Column="1"/>
+        <Button Click="AddActor" Content="-&gt;" Margin="247,238,248,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button Click="RemoveActor" Content="&lt;-" Margin="247,274,248,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button Click="AddDirector" Content="-&gt;" Margin="248,381,247,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Button Click="RemoveDirector" Content="&lt;-" Margin="247,417,248,0" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label Content="Llista Actors" HorizontalAlignment="Left" Margin="30,182,0,0" VerticalAlignment="Top"/>
+        <Label Content="Actors" HorizontalAlignment="Left" Margin="30,182,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Label Content="Llista Directors" HorizontalAlignment="Left" Margin="30,326,0,0" VerticalAlignment="Top"/>
+        <Label Content="Directors" HorizontalAlignment="Left" Margin="30,326,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+        <Button Click="Accept" Content="Acceptar" Margin="226,481,227,0" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <DataGrid Name="Actors" Height="100" Margin="30,213,30,0" VerticalAlignment="Top" ItemsSource="{Binding Actors,UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" VerticalScrollBarVisibility="Visible" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" ClipboardContentBinding="{x:Null}" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Name}" ClipboardContentBinding="{x:Null}" Width="*" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="Actors2" Height="100" Margin="30,213,30,0" VerticalAlignment="Top" ItemsSource="{Binding Actors2, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" VerticalScrollBarVisibility="Visible" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False" Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" ClipboardContentBinding="{x:Null}" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Name}" ClipboardContentBinding="{x:Null}" Width="*" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="Directors" Height="100" Margin="30,357,30,0" VerticalAlignment="Top" ItemsSource="{Binding Directors, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" VerticalScrollBarVisibility="Visible" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" ClipboardContentBinding="{x:Null}" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Name}" ClipboardContentBinding="{x:Null}" Width="*" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid Name="Directors2" Height="100" Margin="30,357,30,0" VerticalAlignment="Top" ItemsSource="{Binding Directors2, UpdateSourceTrigger=PropertyChanged}" AutoGenerateColumns="False" VerticalScrollBarVisibility="Visible" CanUserAddRows="False" CanUserDeleteRows="False" CanUserResizeRows="False" Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Id}" ClipboardContentBinding="{x:Null}" IsReadOnly="True"/>
+                <DataGridTextColumn Binding="{Binding Name}" ClipboardContentBinding="{x:Null}" Width="*" IsReadOnly="True"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+    </Grid>
+</Window>
