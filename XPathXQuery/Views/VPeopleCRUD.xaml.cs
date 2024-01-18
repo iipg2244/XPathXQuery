@@ -16,5 +16,6 @@ public partial class VPeopleCRUD : Window
         ((VMPeopleCRUD)this.DataContext).GetPerson(person, mode);
     }
 
-    private void acceptar(object sender, RoutedEventArgs e) => ((VMPeopleCRUD)this.DataContext).Accept();
+    private void Acceptar(object sender, RoutedEventArgs e) => ((VMPeopleCRUD)this.DataContext).Accept();
+
 }

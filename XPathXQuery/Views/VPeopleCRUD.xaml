@@ -24,6 +24,6 @@
         <Label Content="Director" HorizontalAlignment="Right" Margin="0,64,72,0" VerticalAlignment="Top"/>
         <Label Content="Població" HorizontalAlignment="Left" Margin="30,132,0,0" VerticalAlignment="Top"/>
         <TextBox Height="23" Margin="160,132,25,0" VerticalAlignment="Top" Text="{Binding Pob}" VerticalContentAlignment="Center"/>
-        <Button Click="acceptar" Content="Acceptar" Margin="0,167,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="82" />
+        <Button Click="Acceptar" Content="Acceptar" Margin="0,167,0,0" VerticalAlignment="Top" HorizontalAlignment="Center" Width="82" />
     </Grid>
 </Window>

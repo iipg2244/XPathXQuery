@@ -78,5 +78,4 @@ public partial class VMoviesCRUD : Window
         }
     }
 
-
 }
