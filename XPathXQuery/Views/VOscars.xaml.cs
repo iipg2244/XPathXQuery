@@ -13,7 +13,7 @@ public partial class VOscars : Window
     public VOscars(List<Person> lpeople)
     {
         InitializeComponent();
-       ( (VMOscars) this.DataContext).GetPeople(lpeople);
+        ((VMOscars)this.DataContext).GetPeople(lpeople);
     }
 
     public VOscars(List<Movie> lmovies)
